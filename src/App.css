@@ -1,0 +1,23 @@
+.widget{
+    box-shadow: 5px 5px 5px rgb(20, 20, 20);
+}
+
+.horizontal-line{
+    box-shadow: 3px 3px 4px rgb(20, 20, 20);
+}
+
+.vertical-line{
+    box-shadow: 3px -3px 4px rgb(20, 20, 20);
+}
+
+.active{
+    box-shadow: 5px 15px 40px 15px rgb(20, 20, 20);
+}
+
+.img-btn{
+    box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.6),5px 8px 5px rgba(20, 20, 20,0.6); 
+}
+
+.action-btn{
+    box-shadow: 4px 6px 25px rgb(20, 20, 20), -3px 0px 4px rgba(78, 78, 78, 0.7);
+}

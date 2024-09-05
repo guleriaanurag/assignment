@@ -1,4 +1,4 @@
-import Widget from "../component/widget";
+import Widget from "../component/Widget";
 import { useState } from "react";
 
 export default function InfoWidget(){

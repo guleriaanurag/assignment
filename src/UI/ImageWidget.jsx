@@ -1,4 +1,4 @@
-import Widget from "../component/widget";
+import Widget from "../component/Widget";
 import { FaPlus,FaArrowLeft,FaArrowRight } from "react-icons/fa";
 
 import sampleImage from '../Images/sample.jpg';

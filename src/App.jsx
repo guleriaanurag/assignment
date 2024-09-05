@@ -1,5 +1,5 @@
-import ImageWidget from "./UI/imageWidget";
-import InfoWidget from "./UI/infoWidget";
+import ImageWidget from "./UI/ImageWidget";
+import InfoWidget from "./UI/InfoWidget";
 
 import "./App.css";
 
